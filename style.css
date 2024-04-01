@@ -121,6 +121,7 @@ main {
 .gorjeta #outra {
     width: 100%;
     background-color: var(--green-100);
+    color: var(--green-800);
 
 }
 
